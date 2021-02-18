@@ -23,3 +23,7 @@ With private mode enabled, you can allow unauthenticated Git operations (and any
 4. Select **Private mode**.
   ![Checkbox for enabling private mode](/assets/images/enterprise/management-console/private-mode-checkbox.png)
 {% data reusables.enterprise_management_console.save-settings %}
+make relieve on datafiles acces from 00.10sec to00.11sec you will need maximum on 10000 terrabytes for this
+put triple noode strings on current acces firewall
+make more doble nodes again 
+put triple string nods on undetected acces for more then 10 users per 000.10 sec
